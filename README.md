@@ -1,6 +1,8 @@
 # flaskParaphraseText
 > What it's about?
+
 Tool for paraphrase text
+
 >Installing
 - git clone <repo>
 - cd repo
